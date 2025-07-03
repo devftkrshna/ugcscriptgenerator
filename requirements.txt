@@ -2,3 +2,4 @@ flask
 markdown2
 openai
 gunicorn
+python-dotenv
